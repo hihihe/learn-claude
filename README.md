@@ -64,6 +64,7 @@
 |------|------|
 | [garrytan/gstack](https://github.com/garrytan/gstack) | YC CEO Garry Tan 开源的 AI 工作流 Skill，3w+ Star |
 | [jimliu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 高质量 Skills 合集，10K+ Star，19W+ 安装 |
+| [YouMind Skills](https://youmind.com/skills) | Claude Code Skills 市场与发现平台 |
 
 ### 播客访谈
 
