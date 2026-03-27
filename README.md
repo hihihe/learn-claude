@@ -58,6 +58,13 @@
 | [深度解析 OpenClaw 的爆火](https://x.com/Charles77xixi/status/2035366324981858743?s=20) | [@Charles77xixi](https://x.com/Charles77xixi) | Agent 发展趋势与核心概念解析 |
 | [Agent Skills 设计哲学和实战进化](https://x.com/dotey/status/2036114136245969025?s=20) | [@dotey](https://x.com/dotey) | Skills 设计方法论与 baoyu-skills 开源项目 |
 
+### 学习资源
+
+| 资源 | 说明 |
+|------|------|
+| [ShareAI Learn — 从零构建 Agent](https://learn.shareai.run/zh/timeline/) | 12 步渐进式教程，从 84 行代码的 Agent Loop 到多 Agent 团队协作，手把手教你实现 Claude Code 核心机制 |
+| [Claude Code 速查表](https://cc.jiangrzc.cn/) | Claude Code 全功能速查：快捷键、Slash 命令、MCP、Skills、Hooks、Worktree 等一站式参考 |
+
 ### 开源项目
 
 | 项目 | 说明 |
